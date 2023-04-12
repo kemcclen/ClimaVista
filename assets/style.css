@@ -1,0 +1,66 @@
+* {
+font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;
+padding: 0;
+ margin: 0;
+box-sizing: border-box;
+}
+
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #3D405B;
+    text-align: center;
+  }
+
+nav h1 {
+    padding: 15px;
+    color:  #F4F1DE;
+  }
+
+body {
+    background-color: #F4F1DE;
+}
+
+main {
+    display: flex;
+    width: 90%;
+    margin: 2em auto;
+  }
+
+main .searchSection {
+    width: 25%;
+    text-align: center;
+    margin-right: 2em;
+  }
+
+main .searchSection hr {
+    width: 95%;
+    margin: 1em auto;
+  }
+
+main .searchSection #citySearch {
+    width: 95%;
+    margin: 10px auto;
+    height: 25px;
+    text-align: center;
+  }
+
+main .searchSection #searchButton {
+    color: white;
+    background: #81B29A;
+    width: 95%;
+    height: 25px;
+  }
+
+main .searchSection #history {
+    list-style: none;
+  }
+
+main .searchSection #history li {
+    line-height: 2;
+  }
+
+main .searchSection #history li .historyButton {
+    width: 95%;
+    background: lightgrey;
+  }
