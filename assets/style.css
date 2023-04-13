@@ -66,3 +66,56 @@ main .searchSection #history li .historyButton {
   width: 95%;
   background: lightgrey;
 }
+
+main .dashboard {
+  width: 70%;
+ 
+}
+
+main .dashboard .data {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #E07A5F; 
+}
+
+main .dashboard .data .cityHeader {
+  display: flex;
+}
+
+main .dashboard .data .cityHeader img {
+  width: 25px;
+}
+
+main .dashboard .data ul {
+  list-style: none;
+}
+
+main .dashboard .forecast {
+  margin-top: 1em;
+}
+
+main .dashboard .forecast h3 {
+  margin: 5px auto;
+}
+
+main .dashboard .forecast .cardsContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+main .dashboard .forecast .cardsContainer .card {
+  background: #F2CC8F;
+  border: #3d405b solid 1px;
+  color: #3d405b;
+  width: 19%;
+  text-align: center;
+  padding: 10px 0;
+}
+
+main .dashboard .forecast .cardsContainer .card ul {
+  list-style: none;
+}
+
+main .dashboard .forecast .cardsContainer .card .cardIcon {
+  width: 25px;
+}
