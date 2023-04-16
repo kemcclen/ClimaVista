@@ -14,6 +14,9 @@ For future weather, the user will see a 5-day forecast that displays the date, a
 The search history can be used to present the user with the current and future weather conditions of that city again
 
 ## Credits
+- Google Fonts
+-Coolor for the colour scheme 
+-API: https://openweathermap.org/forecast5
 
 ## License
 MIT License
@@ -21,6 +24,11 @@ MIT License
 ## Assets
 The following demonstrates the applications appearance and functionality:
 
+
+https://user-images.githubusercontent.com/123762040/232341817-b454b8aa-358d-489e-a80c-b98343763daf.mov
+
+
 ## Weblinks
-Reposity:
-Deployed Application: 
+Reposity: https://github.com/kemcclen/ClimaVista
+
+Deployed Application: https://kemcclen.github.io/ClimaVista/
