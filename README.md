@@ -15,8 +15,8 @@ The search history can be used to present the user with the current and future w
 
 ## Credits
 - Google Fonts
--Coolor for the colour scheme 
--API: https://openweathermap.org/forecast5
+- Coolor for the colour scheme 
+- API: https://openweathermap.org/forecast5
 
 ## License
 MIT License
