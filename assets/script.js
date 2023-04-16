@@ -64,7 +64,7 @@ function renderCityData (searchedCity) {
     };
       
     //getting lat and lon data for searched city 
-    fetch (`http://api.openweathermap.org/geo/1.0/direct?q=${searchedCity}&limit=5&appid=${KEY}`, requestOptions)
+    fetch (`https://api.openweathermap.org/geo/1.0/direct?q=${searchedCity}&limit=5&appid=${KEY}`, requestOptions)
         .then (response => response.json ())
         .then (result => {
             let lat = result[0].lat;
