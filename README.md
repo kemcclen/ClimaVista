@@ -33,6 +33,6 @@ https://user-images.githubusercontent.com/123762040/232342221-a504cdf5-a1f5-4c16
 
 
 ## Weblinks
-Reposity: https://github.com/kemcclen/ClimaVista
+Repository: https://github.com/kemcclen/ClimaVista
 
 Deployed Application: https://kemcclen.github.io/ClimaVista/
